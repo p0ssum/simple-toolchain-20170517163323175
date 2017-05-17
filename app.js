@@ -4,6 +4,8 @@
 // hello world app is based on node.js starter application for Bluemix
 //------------------------------------------------------------------------------
 
+// Paul adding stuff
+
 // This application uses express as its web server
 // for more info, see: http://expressjs.com
 var express = require('express');
